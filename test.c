@@ -3,3 +3,5 @@ int b = 200;
 int c = a+b;
 
 int d = c/2;
+
+int c = d*2;
